@@ -234,8 +234,7 @@ a[href^="tel"] {
     text-decoration: none; }
 .logo2 {
     vertical-align: middle;
-    height: 90px; 
-    height: auto; }
+    height: 90px; }
 .social-icons {
     margin-right: 8%; }
 .social-icons a {
